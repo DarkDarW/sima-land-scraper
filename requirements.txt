@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pandas
+tabulate
+tqdm
+faker
+fake-useragent
